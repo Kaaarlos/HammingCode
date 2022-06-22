@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1646925832 source:c:\users\acer\desktop\cucei 7\computacion tolerante\examen\hammingcode\hamming.cpp
+	"Hamming.h"
+
+1646925832 c:\users\acer\desktop\cucei 7\computacion tolerante\examen\hammingcode\hamming.h
+	<string>
+	<stdlib.h>
+	<random>
+	<time.h>
+
+1646925832 source:c:\users\acer\desktop\cucei 7\computacion tolerante\examen\hammingcode\main.cpp
+	"Menu.h"
+
+1646925832 c:\users\acer\desktop\cucei 7\computacion tolerante\examen\hammingcode\menu.h
+	"Hamming.h"
+	<iostream>
+	<string>
+
+1646925832 source:c:\users\acer\desktop\cucei 7\computacion tolerante\examen\hammingcode\menu.cpp
+	"Menu.h"
+
